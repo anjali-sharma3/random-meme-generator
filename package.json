@@ -1,0 +1,22 @@
+{
+  "name": "random-meme-generator-as",
+  "version": "1.0.0",
+  "description": "Generate random memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjali-sharma3/random-meme-generator.git"
+  },
+  "keywords": [
+    "RMGS"
+  ],
+  "author": "anjali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjali-sharma3/random-meme-generator/issues"
+  },
+  "homepage": "https://github.com/anjali-sharma3/random-meme-generator#readme"
+}
